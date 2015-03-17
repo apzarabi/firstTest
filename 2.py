@@ -1,3 +1,3 @@
 from datetime import datetime
 
-print(datetime.now())
+print("current time="+datetime.now().__str__())
